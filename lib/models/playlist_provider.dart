@@ -46,19 +46,19 @@ class PlayListProvider extends ChangeNotifier {
       audioPath: "",
     ),
     Song(
-      songName: "One Of The Girls (with JENNIE, Lily Rose Depp)",
+      songName: "One Of The Girls",
       artistName: "The Weeknd, JENNIE, Lily - Rose Depp",
       albumArtImagePath: "assets/Images/Popular.jpeg",
       audioPath: "",
     ),
     Song(
-      songName: "Double Fantasy (with Future)",
+      songName: "Double Fantasy",
       artistName: "The Weeknd, Future",
       albumArtImagePath: "assets/Images/Double_fantasy.png",
       audioPath: "",
     ),
     Song(
-      songName: "Creepin'(with The Weeknd & 21 Savage)",
+      songName: "Creepin'",
       artistName: "Metro Boomin, The Weeknd, 21 Savage",
       albumArtImagePath: "assets/Images/Creepin'.jpeg",
       audioPath: "",
@@ -88,7 +88,7 @@ class PlayListProvider extends ChangeNotifier {
       audioPath: "",
     ),
     Song(
-      songName: "False Idols (with Lil Baby, Suzana Son)",
+      songName: "False Idols",
       artistName: "The Weeknd, Lil Baby, Suzana Son",
       albumArtImagePath: "assets/Images/Popular.jpeg",
       audioPath: "",
@@ -106,7 +106,7 @@ class PlayListProvider extends ChangeNotifier {
       audioPath: "",
     ),
     Song(
-      songName: "Moth to a Flame (with The Weeknd)",
+      songName: "Moth to a Flame",
       artistName: "Swedish House Mafia, The Weeknd",
       albumArtImagePath: "assets/Images/Moth_to_a_flame.jpg",
       audioPath: "",
@@ -136,7 +136,7 @@ class PlayListProvider extends ChangeNotifier {
       audioPath: "",
     ),
     Song(
-      songName: "One Right Now (with The Weeknd)",
+      songName: "One Right Now",
       artistName: "Post Malone, The Weeknd",
       albumArtImagePath: "assets/Images/One_right_now.jpeg",
       audioPath: "",
@@ -232,7 +232,7 @@ class PlayListProvider extends ChangeNotifier {
       audioPath: "",
     ),
     Song(
-      songName: "nothing Is Lost (You Give Me Strength)",
+      songName: "nothing Is Lost",
       artistName: "The Weeknd",
       albumArtImagePath: "assets/Images/Nothing_is_lost.jpeg",
       audioPath: "",
@@ -274,7 +274,7 @@ class PlayListProvider extends ChangeNotifier {
       audioPath: "",
     ),
     Song(
-      songName: "Over Now (with The Weeknd)",
+      songName: "Over Now",
       artistName: "Calvin Harris, The Weeknd",
       albumArtImagePath: "assets/Images/Over_now.jpeg",
       audioPath: "",
@@ -292,7 +292,7 @@ class PlayListProvider extends ChangeNotifier {
       audioPath: "",
     ),
     Song(
-      songName: "House Of Balloons / Glass Table Girls",
+      songName: "House Of Balloons",
       artistName: "The Weeknd",
       albumArtImagePath: "assets/Images/Wicked_games.jpeg",
       audioPath: "",
@@ -304,8 +304,8 @@ class PlayListProvider extends ChangeNotifier {
       audioPath: "",
     ),
     Song(
-      songName: "Power is Power (feat. The Weeknd & Travis Scott)",
-      artistName: "SZA, The Weeknd, Travis Scott, Game Of Thrones",
+      songName: "Power is Power",
+      artistName: "SZA, The Weeknd, Travis Scott",
       albumArtImagePath: "assets/Images/Power_is_power.jpeg",
       audioPath: "",
     ),
