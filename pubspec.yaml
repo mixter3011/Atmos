@@ -65,6 +65,28 @@ flutter:
     - assets/Images/Popular.jpeg
     - assets/Images/The Weekend.png
     - assets/Images/The_Weeknd_-_Starboy.png
+    - assets/Images/The Weekend_2.png
+    - assets/Images/The Weekend_3.png
+    - assets/Images/The Weekend_4.png
+    - assets/Images/Die_for_you.jpeg
+    - assets/Images/Double_fantasy.png
+    - assets/Images/Creepin'.jpeg
+    - assets/Images/K-POP.jpeg
+    - assets/Images/Earned_IT.jpeg
+    - assets/Images/Moth_to_a_flame.jpg
+    - assets/Images/The_party_after_party.jpg
+    - assets/Images/A_lesser_man.jpg
+    - assets/Images/You_Right.jpeg
+    - assets/Images/Lost_in_the_fire.png
+    - assets/Images/Pray_for_me.jpeg
+    - assets/Images/Nothing_is_lost.jpeg
+    - assets/Images/Wicked_games.jpeg
+    - assets/Images/LA_FAMA.jpeg
+    - assets/Images/Over_now.jpeg
+    - assets/Images/Power_is_power.jpeg
+    - assets/Images/Hawai.jpeg
+    - assets/Images/One_right_now.jpeg
+    - assets/Images/Love_me_harder.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
