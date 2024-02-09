@@ -37,6 +37,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   provider: ^6.1.1
   percent_indicator: ^4.2.3
+  audioplayers: ^5.2.1
+  
 
 dev_dependencies:
   flutter_test:
@@ -62,7 +64,9 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/Audio/
+    - assets/Audio/Blinding_Lights.mp3
+    - assets/Audio/Popular.mp3
+    - assets/Audio/Starboy.mp3
     - assets/Images/Popular.jpeg
     - assets/Images/The Weekend.png
     - assets/Images/The_Weeknd_-_Starboy.png
